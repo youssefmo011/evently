@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=C:\Users\youse\flutter_windows_3.27.4-stable\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Users\youse\StudioProjects\evently-c13-online9"
+export "FLUTTER_ROOT=D:\fluttersdk\flutter_windows_3.13.9-stable\flutter"
+export "FLUTTER_APPLICATION_PATH=E:\event2"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=1.0.0"

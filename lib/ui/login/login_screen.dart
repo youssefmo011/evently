@@ -179,7 +179,9 @@ class LoginScreen extends StatelessWidget {
 
   FilledButton buildGoogleSignInButton(BuildContext context) {
     return FilledButton(
-      onPressed: () {},
+      onPressed: () {
+        signInWithGoogle() ;
+        },
       style: FilledButton.styleFrom(
         backgroundColor: Colors.transparent,
         foregroundColor: Theme.of(context).primaryColor,
